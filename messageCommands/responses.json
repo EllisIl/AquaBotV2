@@ -1,0 +1,34 @@
+{
+    "fizzy": { "file": "./Response Videos/steven.mp4" },
+    "hi evan": { "file": "./Response Videos/evan.png" },
+    "evan": { "variable": "evan" },
+    "palcsi stream": { "variable": "palcsiStream" },
+    "gollwer": { "file": "./Response Videos/gollwer.mp4" },
+    "palcsi": { "file": "./Response Videos/palcsi.mp4" },
+    "majac": { "file": "./Response Videos/majac.mp4" },
+    "bubagee": { "file": ["./Response Videos/bubagee1.png", "./Response Videos/bubagee2.png"] },
+    "go play mendes": { "file": "./Response Videos/mendes.png" },
+    "goodnight": { "file": "./Response Videos/sleep_well.mp4" },
+    "good night": { "file": "./Response Videos/sleep_well.mp4" },
+    "saber": { "variable": "saber" },
+    "burger": { "variable": "saber" },
+    "hi": {
+      "cutie": { "author": "palcsiTag", "content": "Hi cutie! :heart:" },
+      "random": [
+        { "variable": "floppaWave" },
+        { "variable": "aquaWave" }
+      ]
+    },
+    "hello": {
+      "cutie": { "author": "palcsiTag", "content": "Hi cutie! :heart:" },
+      "random": [
+        { "variable": "floppaWave" },
+        { "variable": "aquaWave" }
+      ]
+    },
+    "chun li": { "variable": "rubz" },
+    "chunli": { "variable": "rubz" },
+    "gn fella": { "file": "./Response Videos/good_night.mp4" },
+    "gm fella": { "file": "./Response Videos/good_morning.mp4" }
+  }
+  
